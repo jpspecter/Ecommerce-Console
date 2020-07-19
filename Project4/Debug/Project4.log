@@ -1,0 +1,5 @@
+﻿  Customer.cpp
+  Main.cpp
+c:\users\janam\onedrive\desktop\project4\project4\main.cpp(224): warning C4101: 'zip': unreferenced local variable
+  Generating Code...
+  Project4.vcxproj -> C:\Users\janam\OneDrive\Desktop\Project4\Debug\Project4.exe
